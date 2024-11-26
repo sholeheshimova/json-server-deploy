@@ -1,9 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "blogs": [
+      {
+        "id": "a027",
+        "title": "Quam perferendis et ",
+        "body": "Itaque veritatis in ",
+        "author": "dolor"
+      },
+      {
+        "id": "67bd",
+        "title": "Recusandae Cumque s",
+        "body": "Mollitia natus esse ",
+        "author": "ipsum"
+      },
+      {
+        "id": "6609",
+        "title": "blog 123",
+        "body": "lorem ipsum dolor",
+        "author": "ipsum"
+      }
+    ]
+  }
